@@ -24,3 +24,15 @@
     project: DIO Bank
     last change: 15/03/2023
 ---
+
+<br>
+
+### Etapa 3: Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionário. O código deve seguir o modelo de classes UML a seguir.
+---
+
+---
+    version: 3.0
+    developer: @viipaxx_
+    project: DIO Bank
+    last change: 04/07/2023
+---
